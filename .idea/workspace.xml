@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b39062b-f82d-4b05-a867-c9469738a564" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Add_Subscriber/get_Subscriber.js" beforeDir="false" afterPath="$PROJECT_DIR$/Add_Subscriber/get_Subscriber.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-647295265">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="29" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="29" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="17" />
+          <entry key="java" value="1709" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1709" />
+          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-86526910">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1447" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1447" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1805114219">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.23" value="3" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="24" />
+          <entry key="java" value="10690" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="150" />
+          <entry key="json" value="2" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="150" />
+          <entry key="JSON" value="2" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="10690" />
+          <entry key="PLAIN_TEXT" value="24" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/NetworkUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/PublicClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="71" column="37" lean-forward="true" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/Service.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/Constants.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="133" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="133" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kernCounty/Data/ClientID.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kernCounty/Data/ClientPlanID.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/kernCounty/Data/ZipCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/kernCounty/testScripts/PostSubscriber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/kernCounty/testScripts/getSubscriber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pojo/Member.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="380" selection-start-line="33" selection-start-column="380" selection-end-line="33" selection-end-column="380" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/JsonWriter/AddSubscriberJsonWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JsonWriter/addSubscriber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dao/AddSubscriber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JsonWriter/getClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/token/NetworkUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/JsonWriter/OAuth2Response.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Services.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/Constants.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Dao/clientID.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/GenerateSSN.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/example/KernCounty/clientID.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/clientID.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/ClientID.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dao/MyPojo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dao/RelationTypes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dao/SubscriptionMemberPlans.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/Subscriber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/EnrollNewsubscriber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/addSubscriber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dao/Members2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dao/SubscriptionMembers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dao/Subscriber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dao/SubscriptionMemberPlan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dao/SubscriberPoja.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dao/Member.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Dao/MemberAddress.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/EnrollSubscriber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/example.json" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/NetworkUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/ZipCode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kernCounty/Data/Address.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kernCounty/Data/ZipCode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kernCounty/Data/PersonalData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pojo/Subcriber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/services/AddSubscriber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PostSubscriber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kernCounty/Data/SSN.java" />
+        <option value="$PROJECT_DIR$/src/test/java/getSubscriber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testScripts/getSubscriber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pojo/RelationTypes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pojo/SubscriptionMemberPlans.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pojo/MemberAddress.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pojo/SubscriptionMembers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kernCounty/Data/ClientID.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pojo/Subscriber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kernCounty/testScripts/getSubscriber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pojo/Member.java" />
+        <option value="$PROJECT_DIR$/src/main/java/kernCounty/Data/ClientPlanID.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/Service.java" />
+        <option value="$PROJECT_DIR$/src/test/java/kernCounty/testScripts/PostSubscriber.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KernCounty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KernCounty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KernCounty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KernCounty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KernCounty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KernCounty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KernCounty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KernCounty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KernCounty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KernCounty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KernCounty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KernCounty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KernCounty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KernCounty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KernCounty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KernCounty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KernCounty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KernCounty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KernCounty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KernCounty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KernCounty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KernCounty" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testScripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536754190649" />
+    <property name="last_opened_file_path" value="D:/eclipse-workspace/AWS Calculator" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NetworkUtils">
+    <configuration name="NetworkUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.NetworkUtils" />
+      <module name="KernCounty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonalData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kernCounty.Data.PersonalData" />
+      <module name="KernCounty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kernCounty.Data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostSubscriber.enrollNewSubscriber (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KernCounty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kernCounty.testScripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kernCounty.testScripts" />
+      <option name="MAIN_CLASS_NAME" value="kernCounty.testScripts.PostSubscriber" />
+      <option name="METHOD_NAME" value="enrollNewSubscriber" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostSubscriber.enrollNewSubscriber (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KernCounty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kernCounty.testScripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kernCounty.testScripts" />
+      <option name="MAIN_CLASS_NAME" value="kernCounty.testScripts.PostSubscriber" />
+      <option name="METHOD_NAME" value="enrollNewSubscriber" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getSubscriber.getClient" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KernCounty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kernCounty.testScripts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kernCounty.testScripts" />
+      <option name="MAIN_CLASS_NAME" value="kernCounty.testScripts.getSubscriber" />
+      <option name="METHOD_NAME" value="getClient" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.PostSubscriber.enrollNewSubscriber (1)" />
+      <item itemvalue="Application.PersonalData" />
+      <item itemvalue="TestNG.PostSubscriber.enrollNewSubscriber (2)" />
+      <item itemvalue="Application.NetworkUtils" />
+      <item itemvalue="TestNG.getSubscriber.getClient" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NetworkUtils" />
+        <item itemvalue="TestNG.getSubscriber.getClient" />
+        <item itemvalue="TestNG.PostSubscriber.enrollNewSubscriber (2)" />
+        <item itemvalue="TestNG.PostSubscriber.enrollNewSubscriber (1)" />
+        <item itemvalue="Application.PersonalData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b39062b-f82d-4b05-a867-c9469738a564" name="Default Changelist" comment="" />
+      <created>1534389618872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534389618872</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PostSubscriber_enrollNewSubscriber_(1) - 2018.08.23 at 22h 06m 38s.xml">
+      <configuration name="PostSubscriber.enrollNewSubscriber (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PostSubscriber_enrollNewSubscriber_(1) - 2018.08.23 at 22h 08m 06s.xml">
+      <configuration name="PostSubscriber.enrollNewSubscriber (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PostSubscriber_enrollNewSubscriber_(1) - 2018.08.23 at 22h 09m 15s.xml">
+      <configuration name="PostSubscriber.enrollNewSubscriber (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PostSubscriber - 2018.08.23 at 22h 14m 41s.xml">
+      <configuration name="PostSubscriber" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PostSubscriber_enrollNewSubscriber_(1) - 2018.08.23 at 22h 17m 16s.xml">
+      <configuration name="PostSubscriber.enrollNewSubscriber (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PostSubscriber_enrollNewSubscriber - 2018.08.23 at 22h 17m 53s.xml">
+      <configuration name="PostSubscriber.enrollNewSubscriber" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PostSubscriber_enrollNewSubscriber_(1) - 2018.08.29 at 14h 13m 24s.xml">
+      <configuration name="PostSubscriber.enrollNewSubscriber (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PostSubscriber_enrollNewSubscriber_(1) - 2018.08.30 at 18h 14m 02s.xml">
+      <configuration name="PostSubscriber.enrollNewSubscriber (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="PostSubscriber_enrollNewSubscriber_(2) - 2018.08.30 at 18h 20m 06s.xml">
+      <configuration name="PostSubscriber.enrollNewSubscriber (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="getSubscriber_getClient - 2018.09.11 at 16h 24m 43s.xml">
+      <configuration name="getSubscriber.getClient" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2344932" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32786885" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32786885" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.9918033" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24962178" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/fg/fds.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/KernCounty/vcxv.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/JsonWriter/AddSubscriberJsonWriter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Services.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/JsonWriter/addSubscriber.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/JsonWriter/OAuth2Response.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/GenerateSSN.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/KernCounty/ClientID.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/example/KernCounty/KernCountyApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dao/AddSubscriber.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/EnrollNewsubscriber.java" />
+    <entry file="file://$USER_HOME$/Downloads/com/example/SubscriptionMembers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/com/example/SubscriptionMember.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="271" column="1" lean-forward="true" selection-start-line="271" selection-start-column="1" selection-end-line="271" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/com/example/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="218" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/com/example/MemberAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="100" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dao/SubscriberPoja.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dao/SubscriptionMemberPlan.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dao/RelationTypes.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pojo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dao/Subscriber.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dao/MemberAddress.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dao/SubscriptionMember.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dao/Members2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Dao/Member.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/EnrollSubscriber.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/ClientID.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/ZipCode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/example.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/services/AddSubscriber.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/testScripts.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/kernCounty/Data/SSN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/RelationTypes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/SubscriptionMemberPlans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="144" column="51" selection-start-line="144" selection-start-column="51" selection-end-line="144" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/SubscriptionMembers.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/MemberAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/Subscriber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kernCounty/Data/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/microsoft/azure/adal4j/1.4.0/adal4j-1.4.0.jar!/com/microsoft/aad/adal4j/ClientCredential.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/microsoft/azure/adal4j/1.4.0/adal4j-1.4.0.jar!/com/microsoft/aad/adal4j/AuthenticationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="43" column="86" selection-start-line="43" selection-start-column="86" selection-end-line="43" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kernCounty/Data/PersonalData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="133" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kernCounty/Data/ClientID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kernCounty/Data/ClientPlanID.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kernCounty/testScripts/PostSubscriber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pojo/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="380" selection-start-line="33" selection-start-column="380" selection-end-line="33" selection-end-column="380" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/kernCounty/Data/ZipCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/kernCounty/testScripts/getSubscriber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/PublicClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="71" column="37" lean-forward="true" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/NetworkUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
